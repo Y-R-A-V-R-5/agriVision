@@ -1,0 +1,67 @@
+# ================================
+# 📁 DATASETS (Handled by DVC)
+# ================================
+# Ignore dataset folder contents
+dataset/**
+
+# But NOT the .dvc files (track all .dvc files)
+!dataset/**/*.dvc
+
+
+# Optional: if you split your dataset into subfolders later
+!dataset/MPP/raw.dvc
+!dataset/MPP/cleaned.dvc
+!dataset/MPP/augmented.dvc
+!dataset/MPP/final.dvc
+
+# ================================
+# 📦 DVC FILES & FOLDERS
+# ================================
+# Ignore everything in the .dvc directory except the directory itself
+.dvc/*
+!.dvc/cache
+!.dvc/tmp
+
+# ================================
+# 🐍 PYTHON CACHE FILES
+# ================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.joblib
+
+# ================================
+# 📓 JUPYTER NOTEBOOKS
+# ================================
+.ipynb_checkpoints/
+
+# ================================
+# 🛠 IDE & EDITOR CONFIGS
+# ================================
+.vscode/
+.idea/
+
+# ================================
+# 🌐 VIRTUAL ENVIRONMENTS
+# ================================
+env/
+venv/
+.venv/
+
+# ================================
+# 🧹 LOGS, OUTPUTS, MISC
+# ================================
+*.log
+*.out
+*.tmp
+*.bak
+*.swp
+
+# ================================
+# 💻 OS-SPECIFIC FILES
+# ================================
+.DS_Store
+Thumbs.db
+desktop.ini
