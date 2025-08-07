@@ -14,6 +14,13 @@ dataset/**
 !dataset/MPP/augmented.dvc
 !dataset/MPP/final.dvc
 
+!notebook/
+!reports/
+!utils/
+!visuals/
+!*.7z
+
+
 # ================================
 # 📦 DVC FILES & FOLDERS
 # ================================

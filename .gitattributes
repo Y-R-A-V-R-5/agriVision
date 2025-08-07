@@ -1,0 +1,9 @@
+# Force LF endings for text files
+*.py text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.ipynb text eol=lf
+
+# Binary files (don't touch)
+*.png binary
+*.jpg binary
