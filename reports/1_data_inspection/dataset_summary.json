@@ -1,0 +1,144 @@
+{
+    "dataset_summary": {
+        "total_images": 36305,
+        "total_label_files": 36305,
+        "total_annotations": 36879,
+        "images_without_labels": 90,
+        "labels_without_images": 0,
+        "total_classes": 22
+    },
+    "class_distribution": [
+        {
+            "class_id": 0,
+            "class_name": "Cashew Anthracnose",
+            "count": 3099,
+            "percentage": 8.4
+        },
+        {
+            "class_id": 1,
+            "class_name": "Cashew Gumosis",
+            "count": 690,
+            "percentage": 1.87
+        },
+        {
+            "class_id": 2,
+            "class_name": "Cashew Healthy",
+            "count": 2361,
+            "percentage": 6.4
+        },
+        {
+            "class_id": 3,
+            "class_name": "Cashew Leaf Miner",
+            "count": 2490,
+            "percentage": 6.75
+        },
+        {
+            "class_id": 4,
+            "class_name": "Cashew Red Rust",
+            "count": 3036,
+            "percentage": 8.23
+        },
+        {
+            "class_id": 5,
+            "class_name": "Cassava Bacterial Blight",
+            "count": 1641,
+            "percentage": 4.45
+        },
+        {
+            "class_id": 6,
+            "class_name": "Cassava Brown Spot",
+            "count": 2245,
+            "percentage": 6.09
+        },
+        {
+            "class_id": 7,
+            "class_name": "Cassava Green Mite",
+            "count": 776,
+            "percentage": 2.1
+        },
+        {
+            "class_id": 8,
+            "class_name": "Cassava Healthy",
+            "count": 874,
+            "percentage": 2.37
+        },
+        {
+            "class_id": 9,
+            "class_name": "Cassava Mosaic",
+            "count": 932,
+            "percentage": 2.53
+        },
+        {
+            "class_id": 10,
+            "class_name": "Maize Fall Armyworm",
+            "count": 489,
+            "percentage": 1.33
+        },
+        {
+            "class_id": 11,
+            "class_name": "Maize Grasshoper",
+            "count": 1670,
+            "percentage": 4.53
+        },
+        {
+            "class_id": 12,
+            "class_name": "Maize Healthy",
+            "count": 359,
+            "percentage": 0.97
+        },
+        {
+            "class_id": 13,
+            "class_name": "Maize Leaf Beetle",
+            "count": 1283,
+            "percentage": 3.48
+        },
+        {
+            "class_id": 14,
+            "class_name": "Maize Leaf Blight",
+            "count": 1999,
+            "percentage": 5.42
+        },
+        {
+            "class_id": 15,
+            "class_name": "Maize Leaf Spot",
+            "count": 2085,
+            "percentage": 5.65
+        },
+        {
+            "class_id": 16,
+            "class_name": "Maize Streak Virus",
+            "count": 1651,
+            "percentage": 4.48
+        },
+        {
+            "class_id": 17,
+            "class_name": "Tomato Healthy",
+            "count": 828,
+            "percentage": 2.25
+        },
+        {
+            "class_id": 18,
+            "class_name": "Tomato Leaf Blight",
+            "count": 2034,
+            "percentage": 5.52
+        },
+        {
+            "class_id": 19,
+            "class_name": "Tomato Leaf Curl",
+            "count": 919,
+            "percentage": 2.49
+        },
+        {
+            "class_id": 20,
+            "class_name": "Tomato Septoria Leaf Spot",
+            "count": 4037,
+            "percentage": 10.95
+        },
+        {
+            "class_id": 21,
+            "class_name": "Tomato Verticulium Wilt",
+            "count": 1381,
+            "percentage": 3.74
+        }
+    ]
+}
